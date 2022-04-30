@@ -6,14 +6,17 @@ Four students. Ages: 12-16 Years
 
 ## 2022-04-30
 1. Short trek in morning. 
-2. Farm consulting.
+2. Farm consulting to an elder.
 3. Emacs intro. Org mode intro. Scratch buffer. 
-4. Exploring Game section. 
-5. Educative movies with children: 
+4. Exploring Game section in Emacs and Knoppix. 
+5. Origami: Lotus, Doll, Dining Set
+6. Educative movies with children: 
     - [Fun with Magnets](https://m.youtube.com/watch?v=Jio7yyXo3Aw) 
     - [Turning Trash into toys for learning](https://m.youtube.com/watch?v=KnCqR2yUXoU)
     - [Do Flowers Fly?](https://m.youtube.com/watch?v=qhFueNOJyCU)
     - [Ferdinand, the Bull](https://m.youtube.com/watch?v=UN62cxSs5Q8)
+    - [Bamboo ideas in farming & utensils](https://m.youtube.com/watch?v=oi38cQMORQY)
+    - [Usage of Rose 🌹: Candies, Cake, Jam, Syrup etc](https://m.youtube.com/watch?v=OSX3ik9Z4X8)
 
 **Emacs Psychotherapist** 
 
