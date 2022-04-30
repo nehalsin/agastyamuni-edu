@@ -17,6 +17,8 @@ Four students. Ages: 12-16 Years
     - [Ferdinand, the Bull](https://m.youtube.com/watch?v=UN62cxSs5Q8)
     - [Bamboo ideas in farming & utensils](https://m.youtube.com/watch?v=oi38cQMORQY)
     - [Usage of Rose 🌹: Candies, Cake, Jam, Syrup etc](https://m.youtube.com/watch?v=OSX3ik9Z4X8)
+7. Picolisp installation. [Steps](picolisp-code.org) slightly more in this machine. 
+8. Picolisp _length_ function discussion. 
 
 **Emacs Psychotherapist** 
 
@@ -29,6 +31,14 @@ Four students. Ages: 12-16 Years
 **Scratch Buffer**
 
 ![scratchbuffer](scratchbuffer.png)
+
+**Picolisp testing after Installation**
+
+![piltesting-20220430](piltesting-20220430.jpg)
+
+**Pilbox on Student's phone**
+
+![pilbox-20220430](pilbox-20220430.jpg)
 
 ## 2022-04-29
 1. Pilbox. Picolisp Introduction. Introduction to basic functions. Arithmetic. Nested lists. Summation of numbers from 1-100. _max_. _min_. 

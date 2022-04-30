@@ -1,0 +1,12 @@
+* Picolisp
+** Steps to install PicoLisp
+ $ su
+ # apt update
+ # apt-get install picolisp
+ # apt-get update 
+ # apt-get install picolisp
+ # dpkg --configure -a
+ # apt-get install picolisp
+ # apt --fix-broken install
+ # apt-get install picolisp
+Running now.
