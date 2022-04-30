@@ -4,16 +4,42 @@ Latest on top.
 
 Four students. Ages: 12-16 Years
 
+## 2022-04-30
+1. Short trek in morning. 
+2. Farm consulting.
+3. Emacs intro. Org mode intro. Scratch buffer. 
+4. Exploring Game section. 
+5. Educative movies with children: 
+    - [Fun with Magnets](https://m.youtube.com/watch?v=Jio7yyXo3Aw) 
+    - [Turning Trash into toys for learning](https://m.youtube.com/watch?v=KnCqR2yUXoU)
+    - [Do Flowers Fly?](https://m.youtube.com/watch?v=qhFueNOJyCU)
+    - [Ferdinand, the Bull](https://m.youtube.com/watch?v=UN62cxSs5Q8)
+
+**Emacs Psychotherapist** 
+
+![emacs-psychotherapist](emacs-psychotherapist.png)
+
+**Emacs Orgmode**
+
+![emacs-orgmode-intro](emacs-orgmode-intro.png)
+
+**Scratch Buffer**
+
+![scratchbuffer](scratchbuffer.png)
+
 ## 2022-04-29
 1. Pilbox. Picolisp Introduction. Introduction to basic functions. Arithmetic. Nested lists. Summation of numbers from 1-100. _max_. _min_. 
 2. Ayurveda. Naturopathy. _Timru_. Teeth health. 
 3. Mind mapping introduction. 
 4. Discussion regarding child's health. Cure through _meditation_ and _yoga_. 
-5. Mind mapping live demonstration while Holistic Life Management. 
-6. Life journey discussion and understanding. 
+5. Mind mapping live demonstration while Holistic Life Management.
+6. Art techniques. 
+7. _Gainthi_ sowing. 
+8. Life journey discussion and understanding. 
 
-Picolisp on Pilbox: 
+**Picolisp on Pilbox:** 
 
 ![pilbox-1-2022-04-29](pilbox-1-2022-04-29.jpg)
 
 ![pilbox-2-2022-04-29.](pilbox-2-2022-04-29..jpg)
+
