@@ -4,6 +4,9 @@ Latest on top.
 
 Four students. Ages: 12-16 Years
 
+## 2022-05-01
+1. Yoga asanas on a big rock on the banks of Mandakini. 
+
 ## 2022-04-30
 1. Short trek in morning. 
 2. Farm consulting to an elder.
@@ -39,6 +42,10 @@ Four students. Ages: 12-16 Years
 **Pilbox on Student's phone**
 
 ![pilbox-20220430](pilbox-20220430.jpg)
+
+**Origami Session**
+
+![origami-2022-05-01](origami-2022-05-01.jpg)
 
 ## 2022-04-29
 1. Pilbox. Picolisp Introduction. Introduction to basic functions. Arithmetic. Nested lists. Summation of numbers from 1-100. _max_. _min_. 
