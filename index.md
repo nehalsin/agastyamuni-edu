@@ -4,8 +4,6 @@ Latest on top.
 
 Four students. Ages: 12-16 Years
 
-Duration: 29 April - 1 May 
-
 ## 2022-05-01
 1. Yoga asanas on a big rock on the banks of Mandakini. 
 
